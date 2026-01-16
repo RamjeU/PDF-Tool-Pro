@@ -33,7 +33,7 @@ The application requires Python 3.x and the following libraries:
 ## Installation
 
 1. Clone this repository:
-   git clone https://github.com/YOUR_USERNAME/PDF-Tool-Pro.git
+   git clone https://github.com/RamjeU/PDF-Tool-Pro.git
 
 2. Install dependencies:
    pip install PyQt5 pymupdf PyPDF2 Pillow
