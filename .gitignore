@@ -1,0 +1,13 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Local environments
+venv/
+.env
+
+# MacOS files
+.DS_Store
+
+# Temporary PDF/Image exports (if any)
+*_temp_img.pdf
